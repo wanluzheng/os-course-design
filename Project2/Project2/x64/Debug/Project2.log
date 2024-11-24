@@ -1,0 +1,9 @@
+﻿  MyOS.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(1103,25): warning C4129: 'd': unrecognized character escape sequence
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(1116,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(1437,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(1679,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(1732,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\Project2\MyOS.cpp(2006): warning C4715: 'MyOS::cd': not all control paths return a value
+  Project2.vcxproj -> E:\学习资料\大三下\操作系统A\课程设计\os课程设计\Project2\x64\Debug\Project2.exe
